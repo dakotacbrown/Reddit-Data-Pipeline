@@ -11,6 +11,7 @@ This is the repository for Dakota Brown's Data Engineering Personal Project base
 2. [AWS account](https://aws.amazon.com/) to set up cloud services.
 3. [Install](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) AWS CLI on an EC2 instance.
 4. [Configure](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config) AWS CLI on an EC2 instance.
+5. [Visualization](assets/Dashboard.pdf) Data visualization can be found here.
 
 # Design
 
