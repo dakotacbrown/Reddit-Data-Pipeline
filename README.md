@@ -17,6 +17,10 @@ This is the repository for Dakota Brown's Data Engineering Personal Project base
 
 ![ETL Design](assets/images/architecture.png)
 
+# Entity Relationship Diagram
+
+![Entity Relationship Diagram](assets/images/redditERD.png)
+
 # Data
 
 Reddit r/place [2017](https://www.reddit.com/r/redditdata/comments/6640ru/place_datasets_april_fools_2017/) and [2022](https://www.reddit.com/r/place/comments/txvk2d/rplace_datasets_april_fools_2022/) data
